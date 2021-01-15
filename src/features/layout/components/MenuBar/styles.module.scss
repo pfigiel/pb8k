@@ -1,0 +1,9 @@
+@import "~styles/variables.scss";
+
+.menu-bar {
+    width: 8em;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: $color-dark-blue;
+}
